@@ -2,6 +2,11 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milesjamz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+Full stack software engineer interested in data visualization and analytics. I love writing software that enhances,
+rather than reduces the humanity of its users, and finds interesting and new ways to display
+data and discover connections. Proficient in writing clean, tested code, self-managing independently,
+and collaborating productively with a team.
+
 [Visit my website](https://miles-marillo.netlify.app)
 
 <!--
