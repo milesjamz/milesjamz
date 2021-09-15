@@ -1,7 +1,7 @@
 ### Miles Marillo
 Hello!
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=milesjamz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milesjamz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+-->
 I'm a full stack software engineer interested in data visualization and analytics. I love writing software that enhances,
 rather than reduces the humanity of its users, and finds interesting and new ways to display
 data and discover connections. I write clean, tested code, self-manage independently,
