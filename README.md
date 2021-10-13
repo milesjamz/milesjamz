@@ -7,6 +7,7 @@ rather than reduces the humanity of its users, and finds interesting and new way
 data and discover connections. I write clean, tested code, self-manage independently,
 and collaborate productively with teams.
 
+
 [Visit my website](https://miles-marillo.netlify.app)
 
 <!--
