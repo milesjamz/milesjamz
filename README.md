@@ -8,7 +8,7 @@ data and discover connections. I write clean, tested code, self-manage independe
 and collaborate productively with teams.
 
 
-[Visit my website](https://miles-marillo.netlify.app)
+[Visit my website here](https://miles-marillo.netlify.app)
 
 <!--
 **milesjamz/milesjamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
